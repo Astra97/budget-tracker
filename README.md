@@ -26,5 +26,5 @@ https://mon3y-track3r.herokuapp.com/
 
 An example screenshot of the application is below.
 
-![screenshot](assets/screenshot.jpg)
+![screenshot](public\icons\challenge19.png)
 
